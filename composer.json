@@ -1,0 +1,22 @@
+{
+    "name": "tongtoanbs/pdflib",
+    "description": "PDFlib 9 API Reference",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jackson Tong",
+            "email": "jackson@snapfrozen.com.au"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {"tongtoanbs\\": ""}
+    },
+    "keywords": [
+        "pdflib",
+        "php pdflib"
+    ]
+}
