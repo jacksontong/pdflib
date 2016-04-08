@@ -10,7 +10,7 @@ namespace tongtoanbs;
  * @version 9.0.6
  *
  * @method boolean begin_document(string $filename, string $optlist)
- * @method void begin_page_ext(string $optlist)
+ * @method void begin_page_ext(float $width, float $height, string $optlist)
  * @method void close_pdi_page(integer $page)
  * @method void end_document(string $optlist)
  * @method void end_page_ext(string $optlist)
