@@ -6,7 +6,6 @@ namespace toantv;
  * Class PDFlibException
  *
  * @author Jackson Tong <jackson@snapfrozen.com.au>
- * @package frontend\modules\pvsell\externals\pdflib
  */
 class PDFlibException extends \PDFlibException
 {

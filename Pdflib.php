@@ -6,7 +6,6 @@ namespace toantv;
  * Class Pdflib
  *
  * @author Jackson Tong <jackson@snapfrozen.com.au>
- * @package frontend\modules\pvsell\externals
  * @link http://www.pdflib.com/fileadmin/pdflib/pdf/manuals/PDFlib-9.0.6-API-reference.pdf
  * @version 9.0.6
  */
